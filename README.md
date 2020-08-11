@@ -1,4 +1,4 @@
-# M4_School_District_Analysis
+# School_District_Analysis
 ## Summary
 
 In this project, we were asked to analyze and process data about a sample of high schools and their performance. We looked at the reading, math and overal passing percentages for each school, sorting by School Type (District / Charter), Spending Bins Per School, Grouping by Spending Ranges, and Categorizing by Grade Level. As well as, creating a district and school summary for all of the data. The challenge was to eliminate the Thomas High School's 9th grade student's scores and see its effects on the overal data and summaries.
